@@ -27,19 +27,3 @@ body {
     margin: 0 0 10px;    
     padding: 10px;
 }
-
-.primary-box h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.primary-box em {
-    color: blue; /*or whatever shade of friggin blue that is */
-}
-
-.secondary-box p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.secondary-box em {
-    color: magenta;
-}
